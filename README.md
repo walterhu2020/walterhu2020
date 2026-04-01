@@ -27,5 +27,5 @@ You can access your VPS using any SSH program such as PuTTY. Watch this tutorial
 SolusVM Credentials are as follows. Please use SolusVM if you need to restart, console or re-install your VPS.
 
 URL: https://nerdvm.racknerd.com/
-Username: vmuser105403
+Username:
 Password: 1mO9KuElcAR1st6 
