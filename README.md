@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
 Username: root
+
 Root Password: 5EVxl5W283WJh2cFbf
+
 SSH Port 22
+
+
+1mO9KuElcAR1st6
