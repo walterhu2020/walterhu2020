@@ -50,7 +50,7 @@ i+X9HIBzTlLCcpFmnAAdAAAAFmNoYW5neWh1QExDTkhLVkQ0NUc3Q1YBAgMEBQYH
 
 3. systemctl restart sshd
 
-4. ssh -i ~/.ssh/id_ed25519 root@23.94.49.90
+4. ssh -i ~/.ssh/id_ed25519 root@23.94.49.xx
 
 
 
