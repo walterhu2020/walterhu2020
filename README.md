@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Username: root
 
-Root Password: 5EVxl5W283WJh2cFbf
+Root Password: NE3lh4g58M39GzmUBe
 
 SSH Port 22
 
